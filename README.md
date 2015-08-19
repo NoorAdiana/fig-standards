@@ -1,50 +1,53 @@
 PHP Framework Interoperability Group
 ====================================
 
-The idea behind the group is for project representatives to talk about the
-commonalities between our projects and find ways we can work together. Our main
-audience is each other, but we’re very aware that the rest of the PHP community
-is watching. If other folks want to adopt what we’re doing they are welcome to
-do so, but that is not the aim.
+
+Ide dari pembentukan group ini adalah menjadi sebuah perwakilan dari setiap
+project agar dapat saling berbicara mengenai kesamaan antar setiap project
+dan menemukan cara agar dapat berkerjasama. Penonton utama kami adalah kami
+anggota group sendiri, tetapi kami menyadari bahwa seluruh komunitas PHP ikut
+menonton. Jika orang lain ingin mengadopsi apa yang kita lakukan mereka
+dipersilakan untuk melakukannya, tapi itu bukan tujuan.
 
 
-Proposing a Standard Recommendation
+Mengusulkan sebuah Rekomendasi Standar
 ------------------------------------
 
-To propose a PHP Standard Recommendation (PSR):
+Untuk mengusulkan Rekomendasi PHP Standard (RPS) / PHP Standard Recommendation (PSR):
 
-- fork this repo, create a branch, checkout that branch, add the PSR in
-  `proposed/`, push the branch to Github, and send a pull request; or,
+- Fork repo ini, buat sebuah branch dan lakukan checkout kedalam branch tersebut,
+  tambahkan RPS dalam folder `proposed/`, push branch ke Github, dan kirim pull
+  request; atau,
 
-- create a ticket to start a discussion on Github; or,
+- buat sebuah ticket untuk memulai sebuah diskusi di Github; atau,
 
-- start a conversation on the [mailing list][].
+- memulai sebuah percakapan dalam [milis][].
 
-[mailing list]: http://groups.google.com/group/php-fig/
-
-
-Requesting Membership
----------------------
-
-You **do not** need to be a voting member to participate in discussion on
-the [mailing list][].
-
-To become a voting member, you must send an email to the [mailing list][].
-
-- The subject line should read: `Membership Request: {$your_name} ({$project_name})`
-
-- The body should include your name, the name of (and link to) the project you
-  represent, and other details you feel are relevant.
-
-- Current members will vote on your request.
-
-Do not combine separate membership requests in a single thread; one request
-per thread, please.
+[milis]: http://groups.google.com/group/php-fig/
 
 
-Voting Members
+Request Keanggotaan
+-------------------
+
+Kamu **tidak perlu** untuk menjadi seorang member voting
+agar dapat berpartisipasi berpartisipasi dalam diskusi di milis [milis][].
+
+Untuk menjadu seorang member voting, kamuu harus mengirim sebuah email ke [milis][].
+
+- Subject : `Membership Request: {$your_name} ({$project_name})`
+
+- Isi harus mencakup nama Anda, nama (dan link ke) proyek Anda mewakili, dan
+  rincian lainnya Anda merasa relevan.
+
+- Anggota tetap saat akan memberikan suara pada permintaan Anda.
+
+Jangan menggabungkan permintaan keanggotaan terpisah dalam thread tunggal; satu
+permintaan per thread, silakan.
+
+
+Member Voting
 --------------
 
-The current list of voting members is available on the [project website][].
+Daftar member voting saat ini tersedia di [web project] [].
 
-[project website]: http://www.php-fig.org/
+[web project]: http://www.php-fig.org/
